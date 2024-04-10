@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    /*espaço externo do elemento*/
+    padding: 0;
+    /*espaço interno entre elemento e borda*/
+    border: none;
+    outline: none;
+    /*É uma linha preta e um contorno ao redor do elemento*/
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+    color: #ffffff;
+}
+ul{
+    list-style: none;
+}
+img{
+    max-width: 100%;
+}
